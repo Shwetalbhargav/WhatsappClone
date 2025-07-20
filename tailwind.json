@@ -1,0 +1,259 @@
+{
+  "text-white": {
+    "style": {
+      "color": "#ffffff"
+    }
+  },
+  "text-black": {
+    "style": {
+      "color": "#000000"
+    }
+  },
+  "text-gray-500": {
+    "style": {
+      "color": "#6b7280"
+    }
+  },
+  "text-blue-500": {
+    "style": {
+      "color": "#3b82f6"
+    }
+  },
+  "text-red-500": {
+    "style": {
+      "color": "#ef4444"
+    }
+  },
+  "bg-white": {
+    "style": {
+      "backgroundColor": "#ffffff"
+    }
+  },
+  "bg-black": {
+    "style": {
+      "backgroundColor": "#000000"
+    }
+  },
+  "bg-gray-100": {
+    "style": {
+      "backgroundColor": "#f3f4f6"
+    }
+  },
+  "bg-blue-500": {
+    "style": {
+      "backgroundColor": "#3b82f6"
+    }
+  },
+  "bg-red-500": {
+    "style": {
+      "backgroundColor": "#ef4444"
+    }
+  },
+  "p-1": {
+    "style": {
+      "padding": 4
+    }
+  },
+  "p-2": {
+    "style": {
+      "padding": 8
+    }
+  },
+  "p-3": {
+    "style": {
+      "padding": 12
+    }
+  },
+  "p-4": {
+    "style": {
+      "padding": 16
+    }
+  },
+  "px-4": {
+    "style": {
+      "paddingLeft": 16,
+      "paddingRight": 16
+    }
+  },
+  "py-2": {
+    "style": {
+      "paddingTop": 8,
+      "paddingBottom": 8
+    }
+  },
+  "m-1": {
+    "style": {
+      "margin": 4
+    }
+  },
+  "m-2": {
+    "style": {
+      "margin": 8
+    }
+  },
+  "m-3": {
+    "style": {
+      "margin": 12
+    }
+  },
+  "m-4": {
+    "style": {
+      "margin": 16
+    }
+  },
+  "mt-2": {
+    "style": {
+      "marginTop": 8
+    }
+  },
+  "mb-2": {
+    "style": {
+      "marginBottom": 8
+    }
+  },
+  "text-xs": {
+    "style": {
+      "fontSize": 12
+    }
+  },
+  "text-sm": {
+    "style": {
+      "fontSize": 14
+    }
+  },
+  "text-base": {
+    "style": {
+      "fontSize": 16
+    }
+  },
+  "text-lg": {
+    "style": {
+      "fontSize": 18
+    }
+  },
+  "text-xl": {
+    "style": {
+      "fontSize": 20
+    }
+  },
+  "text-2xl": {
+    "style": {
+      "fontSize": 24
+    }
+  },
+  "rounded-sm": {
+    "style": {
+      "borderRadius": 4
+    }
+  },
+  "rounded": {
+    "style": {
+      "borderRadius": 8
+    }
+  },
+  "rounded-md": {
+    "style": {
+      "borderRadius": 10
+    }
+  },
+  "rounded-lg": {
+    "style": {
+      "borderRadius": 12
+    }
+  },
+  "rounded-xl": {
+    "style": {
+      "borderRadius": 16
+    }
+  },
+  "flex": {
+    "style": {
+      "display": "flex"
+    }
+  },
+  "flex-row": {
+    "style": {
+      "flexDirection": "row"
+    }
+  },
+  "flex-col": {
+    "style": {
+      "flexDirection": "column"
+    }
+  },
+  "items-center": {
+    "style": {
+      "alignItems": "center"
+    }
+  },
+  "justify-center": {
+    "style": {
+      "justifyContent": "center"
+    }
+  },
+  "justify-between": {
+    "style": {
+      "justifyContent": "space-between"
+    }
+  },
+  "w-full": {
+    "style": {
+      "width": "100%"
+    }
+  },
+  "h-full": {
+    "style": {
+      "height": "100%"
+    }
+  },
+  "w-1/2": {
+    "style": {
+      "width": "50%"
+    }
+  },
+  "h-1/2": {
+    "style": {
+      "height": "50%"
+    }
+  },
+  "w-10": {
+    "style": {
+      "width": 40
+    }
+  },
+  "h-10": {
+    "style": {
+      "height": 40
+    }
+  },
+  "font-light": {
+    "style": {
+      "fontWeight": "300"
+    }
+  },
+  "font-normal": {
+    "style": {
+      "fontWeight": "400"
+    }
+  },
+  "font-bold": {
+    "style": {
+      "fontWeight": "700"
+    }
+  },
+  "text-center": {
+    "style": {
+      "textAlign": "center"
+    }
+  },
+  "text-left": {
+    "style": {
+      "textAlign": "left"
+    }
+  },
+  "text-right": {
+    "style": {
+      "textAlign": "right"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973393433529",
+    "project_id": "whatsappclonebackend-f54fc",
+    "storage_bucket": "whatsappclonebackend-f54fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973393433529:android:34d08ca1bf78c555461c68",
+        "android_client_info": {
+          "package_name": "com.vedazapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVU_ZEGt3cYnbjCTYmyVh0Fu-m5Vo4Cv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

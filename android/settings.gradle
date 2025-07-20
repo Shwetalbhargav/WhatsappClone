@@ -1,6 +1,15 @@
-pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
-plugins { id("com.facebook.react.settings") }
-extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
-rootProject.name = 'VedazApp'
-include ':app'
-includeBuild('../node_modules/@react-native/gradle-plugin')
+pluginManagement {
+  repositories {
+    gradlePluginPortal()
+    google()
+    mavenCentral()
+    maven { url 'https://maven.google.com' }
+  }
+  plugins {
+    id("com.facebook.react") version "0.76.5" 
+  }
+  includeBuild("../node_modules/@react-native/gradle-plugin")
+}
+
+rootProject.name = "VedazApp"
+include(":app")
